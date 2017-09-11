@@ -2,7 +2,7 @@
 npm自动化前端脚本；
 
   包含功能：
-    gulp-less      ：less 编译；
+    gulp-less      ：less 编译；<br />
     gulp-ruby-sass ：sass 编译（可选配置）；
     gulp-cached    ：缓存当前任务中的文件，只让已修改的文件通过管道；
     gulp-uglify    ：js 压缩；
